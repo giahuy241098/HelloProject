@@ -1,10 +1,2 @@
-
-bob hello
-
-hello lan n 
-
-hello
-Alice 1
-
-bob hello
+Alice
 
