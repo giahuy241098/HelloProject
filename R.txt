@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 bob hello
 
 hello
+=======
+hello
+Alice 1
+
+bob hello
+
+>>>>>>> cfd0f2f0279f132a228851412f2817b1ff994b1e
